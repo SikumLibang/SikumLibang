@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikumlibang&label=Profile%20views&color=0e75b6&style=flat" alt="sikumlibang" /> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap and Java**
+- 🌱 I’m currently learning **JS, React, Database, and PHP**
 
-- 💬 Ask me about **C, C++, Java and JS**
+- 💬 Ask me about **C, C++, Java, JS and PHP**
 
 - 📫 How to reach me **imsikumlimbu@gmail.com**
 
