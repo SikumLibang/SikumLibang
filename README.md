@@ -29,4 +29,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SikumLibang)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SikumLibang" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SikumLibang&short_numbers=true" alt="GitHub Streak" /></a>
