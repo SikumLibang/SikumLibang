@@ -80,11 +80,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<!-- SQL (Using MySQL icon as representative) -->
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</a>
-
 <!-- PHP -->
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
@@ -97,7 +92,7 @@
 
 <!-- Adobe After Effects -->
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/>
 </a>
 
 <!-- Adobe Premiere Pro -->
