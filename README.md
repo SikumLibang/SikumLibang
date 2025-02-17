@@ -77,6 +77,39 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-line.svg" alt="aftereffects" width="40" height="40"/>
 </a>
 
+
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+</a>
+
+<!-- SQL (Generic - Same as MySQL) -->
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
+</a>
+
+<!-- PHP -->
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="background-color: white; border-radius: 5px;"/>
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
+</a>
+
+
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikumlibang&show_icons=true&locale=en&layout=compact" alt="sikumlibang" /></p>-->
