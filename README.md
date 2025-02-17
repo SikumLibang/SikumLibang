@@ -25,7 +25,7 @@
 
 ![Sikum's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikumLibang&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikumlibang&show_icons=true&locale=en" alt="sikumlibang" /></p> 
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikumlibang&show_icons=true&locale=en" alt="sikumlibang" /></p> -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikumlibang&" alt="sikumlibang" /></p>-->
 
