@@ -90,17 +90,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
 <!-- Adobe Premiere Pro -->
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premierepro" width="40" height="40"/>
-</a>
-
-<!-- Adobe After Effects (Fixed with visible icon) -->
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-2.svg" alt="aftereffects" width="40" height="40"/>
 </a>
 
 <!-- Adobe Photoshop (Fixed with visible icon for dark background) -->
@@ -108,8 +101,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
 </a>
 
-
-
+<!-- Blender -->
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
 
 </p>
