@@ -101,8 +101,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
 </a>
 
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<!-- Blender (Fixed to stay in a single line) -->
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+</a>
+
 
 
 </p>
