@@ -110,16 +110,9 @@
 
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikumlibang&show_icons=true&locale=en&layout=compact" alt="sikumlibang" /></p>-->
-
 ![Sikum's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikumLibang&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikumLibang&hide_progress=true)
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikumlibang&show_icons=true&locale=en" alt="sikumlibang" /></p> -->
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikumlibang&" alt="sikumlibang" /></p>-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SikumLibang&theme=neon&short_numbers=true)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikumLibang&hide_progress=true)
 
