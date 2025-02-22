@@ -110,7 +110,7 @@
 
 </p>
 
-![Sikum's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikumLibang&show_icons=true&theme=radical)
+![Sikum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikumlibang&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikumLibang&hide_progress=true)
