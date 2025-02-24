@@ -112,7 +112,9 @@
 
 ![Sikum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikumlibang&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SikumLibang&theme=ambient-gradient)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SikumLibang&theme=ambient-gradient)](https://git.io/streak-stats)-->
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=SikumLibang&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikumLibang&hide_progress=true)
